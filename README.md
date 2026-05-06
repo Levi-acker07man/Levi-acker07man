@@ -1,16 +1,16 @@
 
 # Hi there, I'm Abhinav Parmar! 👋
 
-I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jabalpur. I'm deeply passionate about competitive programming, open-source development, and understanding how things work under the hood—from memory management to kernel modules. I love bridging the gap between hardware systems and low-level software.
+I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jabalpur. I'm deeply passionate about competitive programming, open-source development. I love bridging the gap between hardware systems and low-level software.
 
 ### 🔭 What I'm up to
 
-- **Studying:** Diving deep into C++ and system internals.
+- **Studying:** Diving deep the intricacies of C++, low-level system internals, memory management, and data structures..
 - **Building:** 
   - An interactive **360-degree Virtual Campus Tour** using JavaScript, the Pannellum library, and GIS mapping.
   - A mobile-first **Agricultural AI** project focused on the early detection of plant leaf diseases using deep learning and computer vision.
 - **Solving:** Actively tackling algorithmic challenges on Codeforces and LeetCode. 
-- **Tinkering:** Linux power user. Daily driving a dual-boot setup (Fedora/Ubuntu) and constantly optimizing my window manager workflow with Hyprland and Waybar.
+- **Tinkering:** Linux power user. Bridging the best of both worlds with a versatile dual-boot ecosystem. I daily drive Linux (Ubuntu) with a highly optimized Hyprland workflow for coding and system exploration, while seamlessly switching to Windows for heavy-duty engineering design and gaming.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,7 +21,7 @@ I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jaba
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `Low-Level Systems` • `Deep Learning`
 
 **Tools & Environment:**  
-`Git` • `Linux` • `Hyprland` • `Waybar` • `Autodesk Fusion 360`
+`Git` • `Linux` • `Hyprland` •`Autodesk Fusion 360` 
 
 ---
 
