@@ -28,8 +28,9 @@ I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jaba
 ### 🚀 Let's Connect!
 
 <!-- Replace the '#' with your actual links -->
-[![LinkedIn](https://www.linkedin.com/in/abhinav-parmar-75a6493b7/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-parmar-75a6493b7/)
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmarabhinav6629@gmail.com)
 <!-- Optional GitHub Stats Card -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
