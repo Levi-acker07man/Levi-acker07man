@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Levi-acker07man/Levi-acker07man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Abhinav Parmar! 👋
 
-Here are some ideas to get you started:
+I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jabalpur. I'm deeply passionate about competitive programming, open-source development, and understanding how things work under the hood—from memory management to kernel modules. I love bridging the gap between hardware systems and low-level software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm up to
+
+- **Studying:** Diving deep into C++ and system internals.
+- **Building:** 
+  - An interactive **360-degree Virtual Campus Tour** using JavaScript, the Pannellum library, and GIS mapping.
+  - A mobile-first **Agricultural AI** project focused on the early detection of plant leaf diseases using deep learning and computer vision.
+- **Solving:** Actively tackling algorithmic challenges on Codeforces and LeetCode. 
+- **Tinkering:** Linux power user. Daily driving a dual-boot setup (Fedora/Ubuntu) and constantly optimizing my window manager workflow with Hyprland and Waybar.
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**  
+`C++` • `Python` • `JavaScript` • `HTML/CSS`
+
+**Core Focus:**  
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Low-Level Systems` • `Deep Learning`
+
+**Tools & Environment:**  
+`Git` • `Linux` • `Hyprland` • `Waybar` • `Autodesk Fusion 360`
+
+---
+
+### 🚀 Let's Connect!
+
+<!-- Replace the '#' with your actual links -->
+[![LinkedIn](https://www.linkedin.com/in/abhinav-parmar-75a6493b7/)
+
+<!-- Optional GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
