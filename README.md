@@ -4,14 +4,14 @@ I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jaba
 🔭 What I'm up to<br><br>
     Studying: Diving deep into the intricacies of C++, low-level system internals, memory management, and data structures. I am also an avid enthusiast exploring Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs).<br>
 
-    Building:<br>
-        🗺️ An interactive 360-degree Virtual Campus Tour using JavaScript, the Pannellum library, and GIS mapping.<br>
-        🌱 A mobile-first Agricultural AI project focused on the early detection of plant leaf diseases using deep learning and computer vision.<br>
-        🔥 An end-to-end Algerian Forest Fire Prediction pipeline, focusing on rigorous raw data preprocessing, EDA, and training regularized machine learning models (Ridge/Lasso) to predict the Fire Weather Index.<br>
+Building:<br>
+🗺️ **Virtual Campus Tour:** An interactive 360-degree experience using JavaScript, the Pannellum library, and GIS mapping.<br><br>
+🌱 **Agri-AI App:** A mobile-first project focused on the early detection of plant leaf diseases using deep learning and computer vision.<br><br>
+🔥 **Forest Fire Predictor:** An end-to-end Algerian Forest Fire Prediction pipeline, focusing on rigorous raw data preprocessing, EDA, and training regularized machine learning models (Ridge/Lasso) to predict the Fire Weather Index.<br><br>
 
-    Solving: Actively tackling algorithmic challenges on Codeforces and LeetCode.<br>
+Solving: Actively tackling algorithmic challenges on Codeforces and LeetCode.<br>
 
-    Tinkering: Linux power user. Bridging the best of both worlds with a versatile dual-boot ecosystem. I daily drive Linux (Ubuntu) with a highly optimized Hyprland workflow for coding and system exploration, while seamlessly switching to Windows for heavy-duty engineering design and gaming.<br><br>
+Tinkering: Linux power user. Bridging the best of both worlds with a versatile dual-boot ecosystem. I daily drive Linux (Ubuntu) with a highly optimized Hyprland workflow for coding and system exploration, while seamlessly switching to Windows for heavy-duty engineering design and gaming.<br><br>
 
 🛠️ Tech Stack & Tools<br><br>
 
