@@ -6,6 +6,7 @@ I'm an undergraduate student studying Mechanical Engineering at PDPM IIITDM Jaba
     Building:<br>
         An interactive 360-degree Virtual Campus Tour using JavaScript, the Pannellum library, and GIS mapping.<br>
         A mobile-first Agricultural AI project focused on the early detection of plant leaf diseases using deep learning and computer vision.<br>
+        An end-to-end Algerian Forest Fire Prediction pipeline, focusing on rigorous raw data preprocessing, EDA, and training regularized machine learning models (Ridge/Lasso) to predict the Fire Weather Index.<br>
     Solving: Actively tackling algorithmic challenges on Codeforces and LeetCode.<br>
     Tinkering: Linux power user. Bridging the best of both worlds with a versatile dual-boot ecosystem. I daily drive Linux (Ubuntu) with a highly optimized Hyprland workflow for coding and system exploration, while seamlessly switching to Windows for heavy-duty engineering design and gaming.<br><br>
 
